@@ -45,8 +45,7 @@ El código está organizado en dos archivos principales:
 
 ## ▶️ Video explicativo
 
-🔗 [Enlace al video explicativo](https://www.youtube.com/watch?v=ACA_TU_VIDEO_AQUI)  
-_(Este enlace será actualizado una vez subido el video)_
+🔗 [Enlace al video explicativo](https://youtu.be/Lar0d1uv2a4)
 
 ---
 
