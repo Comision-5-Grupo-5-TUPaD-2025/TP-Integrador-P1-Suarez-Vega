@@ -62,11 +62,17 @@ El código está organizado en dos archivos principales:
 ## 📁 Estructura del proyecto
 
 TP-Integrador-P1-Suarez-Vega/
+
 ├── parte-escrita/
+
 │ └── TP Integrador - TP Integrador P1 - Comision 5 - Eric Suarez Dubs - Gonzalo Vega.pdf
+
 ├── parte-practica/
+
 │ ├── fetch_pokemon.py
+
 │ └── main.py
+
 └── README.md
 
 ---
